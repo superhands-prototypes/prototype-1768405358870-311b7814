@@ -6,6 +6,6 @@
 
 body {
   font-family: system-ui, -apple-system, sans-serif;
-  background: linear-gradient(135deg, #fce4ec 0%, #f8bbd9 50%, #f3e5f5 100%);
+  background: linear-gradient(135deg, #f8e8e8 0%, #f5d5e0 35%, #e8f0e8 70%, #f0ebe8 100%);
   min-height: 100vh;
 }
